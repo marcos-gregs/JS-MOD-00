@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#root_main{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    
+}
+#content_display{
+    width: 40%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column; 
+    row-gap: 5%;
+    
+}
+.main_action_display{
+    display: flex;
+    flex-direction: column;    
+    width: 60%;
+    height: 100vh;
+    background: #ccc; 
+}
+#form_display{
+    display: flex;
+    flex-direction: column;    
+    width: 80%;
+    height: 50vh;
+    background: #ccc;
+    
+}
+.title_display{
+    width: 90%;
+    height: 60px;
+    
+    padding-left: 5%;
+    padding-top: 5%;
+    color: white;
+    display: flex;
+    font-size: 2rem;
+}
+.subtitle_display{
+    width: 90%;
+    height: 40px;
+    padding-left: 5%;
+    color: white;
+    display: flex;
+    font-size: 1,5rem;
+}
+.text_display{
+    width: 90%;
+    height: 40px;
+    padding-left: 5%;
+    color: white;
+    display: flex;
+    font-size: 1rem;
+}
+.intput_name,.intput_study,.intput_dtnasc{
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
