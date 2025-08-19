@@ -32,7 +32,7 @@
 #action_display{
     display: flex;
     flex-direction: column;
-    background-color: antiquewhite;
+    background-color: white;
     row-gap: 1%;
     width: 60%;
 }

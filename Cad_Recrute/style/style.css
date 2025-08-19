@@ -22,21 +22,20 @@
     flex-direction: column;    
     width: 60%;
     height: 100vh;
-    background: #ccc; 
+    background: white; 
 }
 #form_display{
     display: flex;
     flex-direction: column;    
     width: 80%;
     height: 50vh;
-    background: #ccc;
+    background: white; 
     
 }
 .title_display{
     width: 90%;
     height: 60px;
-    
-    padding-left: 5%;
+        padding-left: 5%;
     padding-top: 5%;
     color: white;
     display: flex;

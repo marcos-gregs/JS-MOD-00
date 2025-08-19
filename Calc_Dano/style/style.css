@@ -35,21 +35,3 @@
     text-align: justify;
     width: 80%;
 }
-#first_car_content, #second_car_content, #third_car_content{
-    width: 70%;
-    align-items: center;
-    
-    height: 15%;
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-    
-}
-#input_third_car_result{
-    height: 20vh;
-}
-#input_third_car_btn{
-    width: 50%;
-    height: 35%;
-    border-radius: 2vh;
-    border-style: none;
-}

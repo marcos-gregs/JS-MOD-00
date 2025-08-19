@@ -1,4 +1,4 @@
-export { number } from "https://esm.sh/mathjs";
+
 
 const get_value = document.querySelectorAll('.table_number');
 const get_operation = document.querySelectorAll('.table_operation');
