@@ -35,3 +35,7 @@
     text-align: justify;
     width: 80%;
 }
+#content_gameboard{
+    width: 50%;
+    background-color: white;
+}
