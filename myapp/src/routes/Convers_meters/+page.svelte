@@ -1,6 +1,7 @@
 <script lang="ts">
     import DescripeExer from "./DescripeExer.svelte";
-
+    import '../injectBulma.css'
+    import AcaoConversao from "./AcaoConversao.svelte";
    
 
 
@@ -12,10 +13,7 @@
   <DescripeExer/>
 
   <!-- Ações -->
-  <section id="content_action">
-  
-
-  </section>
+    <AcaoConversao/>
 </div>
 
 <style>
@@ -26,15 +24,10 @@
 }
 #root_main{
     background-color: black;
-     display: flex;
+    height: 100vh;
+    display: flex;
     flex-direction: row;
     
 }
 
-#content_action{
-    width: 50%;
-    height: 100vh;
-    display: grid;
-    background-color: white;
-}
 </style>

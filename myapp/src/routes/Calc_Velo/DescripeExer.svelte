@@ -1,5 +1,5 @@
 <section id="content_descripe">
-    <h1 class="title_content_descripe">3- Exe: Teste Velocidade</h1>
+    <h1 class="title_content_descripe title is-1">3- Exe: Teste Velocidade</h1>
     <p class="subtitle_content_descripe">
       Um programa em javascript que permita inserir o nome e a velocidade de dois veículos
       e exiba na tela uma mensagem dizendo qual dos dois é mais rápido 

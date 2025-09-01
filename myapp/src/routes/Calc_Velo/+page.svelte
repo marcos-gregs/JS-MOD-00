@@ -1,6 +1,6 @@
 <script lang="ts">
     import DescripeExer from "./DescripeExer.svelte";
-    
+    import '../injectBulma.css';
     type Car ={
       nome:string,
       velocidade:number
